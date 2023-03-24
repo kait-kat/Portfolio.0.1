@@ -2,3 +2,12 @@
     font-family: 'Sono', sans-serif;
 }
 
+.h3 {
+    text-align: center;
+}
+
+img {
+    object-fit: contain;
+    width: 500px;
+    height: 700px;
+}
