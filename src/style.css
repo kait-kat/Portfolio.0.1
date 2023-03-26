@@ -10,6 +10,9 @@
     padding: 15px;
 }
 
+/*the img assets are connected to the images in the project section*/
+/*the hover is used to show user you can click on the img*/
+
 img {
     object-fit: contain;
     width: 500px;
